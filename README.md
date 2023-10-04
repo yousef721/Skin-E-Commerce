@@ -1,2 +1,2 @@
-# React-E-Commerce
+# Skin-E-Commerce
 React Project
